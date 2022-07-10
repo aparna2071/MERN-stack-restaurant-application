@@ -1,0 +1,17 @@
+nav .navbar-collapse.collapse{
+    display:block;
+}
+
+@media(max-width:991px){
+    nav .navbar-collapse.collapse{
+        overflow: hidden;
+    }
+    nav .navbar-collapse.active{
+        height:30vh !important;
+    }
+}
+
+nav .navbar-collapse{
+    transition: .6s all ease-in-out;
+    height:0 !important;
+}
