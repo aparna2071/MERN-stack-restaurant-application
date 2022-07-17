@@ -1,4 +1,4 @@
-# MERN-stack-restaurant-application
+# MERN stack restaurant application
 
 - This is a Full stack(MERN) restaurant app whose data(menu) is stored in MongoDB which is being shown on frontend.
 - The user can choose anything from the menu, add to cart & see the total amount.
